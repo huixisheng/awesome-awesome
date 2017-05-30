@@ -22,6 +22,30 @@
 [submodule "fe/ElementUI-awesome-element"]
 	path = fe/ElementUI-awesome-element
 	url = git@github.com:ElementUI/awesome-element.git
+[submodule "fe/opendigg-awesome-github-vue"]
+	path = fe/opendigg-awesome-github-vue
+	url = git@github.com:opendigg/awesome-github-vue.git
 [submodule "awesome/erichs-awesome-awesome"]
 	path = awesome/erichs-awesome-awesome
 	url = git@github.com:erichs/awesome-awesome.git
+[submodule "fe/dustinspecker-awesome-eslint"]
+	path = fe/dustinspecker-awesome-eslint
+	url = git@github.com:dustinspecker/awesome-eslint.git
+[submodule "fe/wwsun-awesome-javascript"]
+	path = fe/wwsun-awesome-javascript
+	url = git@github.com:wwsun/awesome-javascript.git
+[submodule "tools/jaywcjlove-awesome-mac"]
+	path = tools/jaywcjlove-awesome-mac
+	url = git@github.com:jaywcjlove/awesome-mac.git
+[submodule "fe/vuejs-awesome-vue"]
+	path = fe/vuejs-awesome-vue
+	url = git@github.com:vuejs/awesome-vue.git
+[submodule "fe/sindresorhus-awesome-nodejs"]
+	path = fe/sindresorhus-awesome-nodejs
+	url = git@github.com:sindresorhus/awesome-nodejs.git
+[submodule "tools/iCHAIT-awesome-macOS"]
+	path = tools/iCHAIT-awesome-macOS
+	url = git@github.com:iCHAIT/awesome-macOS.git
+[submodule "fe/uhub-awesome-css"]
+	path = fe/uhub-awesome-css
+	url = https://github.com/uhub/awesome-css

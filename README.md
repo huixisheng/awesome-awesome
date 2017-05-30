@@ -2,12 +2,36 @@
 
 awesome收集整理。使用`git submodule` 方便同步作者原仓库资源。
 
-## 前端开发 ##
+## 前端开发资源 ##
 
 ### [ElementUI/awesome-element](https://github.com/ElementUI/awesome-element) ###
 >A curated list of Element projects
 
+### [opendigg/awesome-github-vue](git@github.com:opendigg/awesome-github-vue.git) ###
+>Vue相关开源项目库汇总 http://www.opendigg.com/tags/front-vue
+
+### [dustinspecker/awesome-eslint](git@github.com:dustinspecker/awesome-eslint.git)
+>A list of awesome ESLint plugins, configs, etc.
+
+### [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue/)
+>A curated list of awesome things related to Vue.js
+
+### [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ###
+>⚡️ Delightful Node.js packages and resources https://node.cool
+
+### [uhub/awesome-css](https://github.com/uhub/awesome-css) ###
+>A curated list of awesome CSS frameworks, libraries and software.
+
 - [20张Cheat Sheet，让前端开发与设计效率x2](http://www.jianshu.com/p/bf266ec5a244)
+
+## 开发工具 ##
+
+### [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) ###
+> 这个仓库主要是收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。有这个想法是因为我最近发了一篇较为火爆的涨粉儿微信公众号文章[《工具武装的前端开发工程师》](https://mp.weixin.qq.com/s?__biz=MzAwNzgxMjYzMA==&mid=2649129466&idx=1&sn=e50f0049b096cf28b7cf707a4b5adb33#rd)，于是建了这么一个仓库，持续更新作为补充，搜集更多好用的软件工具。请Star、Pull Request或者使劲搓它 issues 给我推荐优秀好用的Mac应用，很显然我是一个资深Mac用户，我需要它们帮助我快乐、高效的工作，同时也分享给你。格式参照[awesome](https://github.com/sindresorhus/awesome)的清单。
+
+
+### [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) ###
+> A curated list of awesome applications, softwares, tools and shiny things for macOS.
 
 ## 开发文档 ##
 - http://overapi.com/
@@ -42,9 +66,44 @@ awesome收集整理。使用`git submodule` 方便同步作者原仓库资源。
 
 ## 更新日志 ##
 
+**2017-05-30**
+- 添加前端开发资源
+- 添加开发工具
+
 **2017-05-29**
 - 初始化版本
 - 添加cheat sheet资源
+
+## submodule说明 ##
+
+添加
+
+`git submodule add https://github.com/uhub/awesome-css fe/uhub-awesome-css`
+
+删除
+
+```
+git rm --cached awesome/erichs-awesome-awesome.git
+rm -rf awesome/erichs-awesome-awesome.git
+删除.gitmodules相应信息.
+删除.git/config相关内容.
+删除.git/modules/erichs-awesome-awesome.git
+```
+
+下载
+
+`git cloen git@github.com:huixisheng/awesome-awesome.git --recursive`
+
+或者
+
+```
+git cloen git@github.com:huixisheng/awesome-awesome.git
+git submodule init
+```
+
+更新
+
+`git submodule foreach --recursive git submodule update`
 
 
 **声明：** 版权归原作者所有
