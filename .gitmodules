@@ -49,3 +49,6 @@
 [submodule "fe/uhub-awesome-css"]
 	path = fe/uhub-awesome-css
 	url = https://github.com/uhub/awesome-css
+[submodule "tools/dictcp-awesome-git"]
+	path = tools/dictcp-awesome-git
+	url = git@github.com:dictcp/awesome-git.git
