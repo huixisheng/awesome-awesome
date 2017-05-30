@@ -4,9 +4,6 @@
 [submodule "awesome/emijrp-awesome-awesome"]
 	path = awesome/emijrp-awesome-awesome
 	url = git@github.com:emijrp/awesome-awesome.git
-[submodule "awesome/erichs-awesome-awesome.git"]
-	path = awesome/erichs-awesome-awesome.git
-	url = git@github.com:erichs/awesome-awesome.git
 [submodule "cheat-sheet/yuxingxin-Awesome-Cheat-Sheet"]
 	path = cheat-sheet/yuxingxin-Awesome-Cheat-Sheet
 	url = git@github.com:yuxingxin/Awesome-Cheat-Sheet.git
@@ -16,9 +13,15 @@
 [submodule "cheat-sheet/audreyr-favicon-cheat-sheet"]
 	path = cheat-sheet/audreyr-favicon-cheat-sheet
 	url = git@github.com:audreyr/favicon-cheat-sheet.git
-[submodule "devdocs/nodejs-cheatsheet"]
-	path = devdocs/nodejs-cheatsheet
-	url = https://gist.github.com/985b82968d8285987dc3.git
 [submodule "cheat-sheet/flyhigher139-Git-Cheat-Sheet"]
 	path = cheat-sheet/flyhigher139-Git-Cheat-Sheet
 	url = git@github.com:flyhigher139/Git-Cheat-Sheet.git
+[submodule "devdocs/nodejs-cheatsheet"]
+  path = devdocs/nodejs-cheatsheet
+  url = https://gist.github.com/985b82968d8285987dc3.git
+[submodule "fe/ElementUI-awesome-element"]
+	path = fe/ElementUI-awesome-element
+	url = git@github.com:ElementUI/awesome-element.git
+[submodule "awesome/erichs-awesome-awesome"]
+	path = awesome/erichs-awesome-awesome
+	url = git@github.com:erichs/awesome-awesome.git

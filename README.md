@@ -3,6 +3,10 @@
 awesome收集整理。使用`git submodule` 方便同步作者原仓库资源。
 
 ## 前端开发 ##
+
+### [ElementUI/awesome-element](https://github.com/ElementUI/awesome-element) ###
+>A curated list of Element projects
+
 - [20张Cheat Sheet，让前端开发与设计效率x2](http://www.jianshu.com/p/bf266ec5a244)
 
 ## 开发文档 ##
@@ -44,3 +48,4 @@ awesome收集整理。使用`git submodule` 方便同步作者原仓库资源。
 
 
 **声明：** 版权归原作者所有
+
