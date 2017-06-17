@@ -29,6 +29,9 @@ awesome收集整理。使用`git submodule` 方便同步作者原仓库资源。
 
 ## 开发工具 ##
 
+### [Bakumon/awesome-online-tools](https://github.com/Bakumon/awesome-online-tools) ###
+>🔨 A series of small, beautiful and practical online tools.
+
 ### [dictcp/awesome-git](https://github.com/dictcp/awesome-git)
 >A curated list of amazingly awesome Git tools, resources and shiny things
 
@@ -74,6 +77,7 @@ awesome收集整理。使用`git submodule` 方便同步作者原仓库资源。
 
 **2017-06-17**
 - 添加sorrycc/awesome-javascript
+- 添加Bakumon/awesome-online-tools
 
 **2017-05-30**
 - 添加前端开发资源

@@ -55,3 +55,6 @@
 [submodule "fe/sorrycc-awesome-javascript"]
 	path = fe/sorrycc-awesome-javascript
 	url = https://github.com/sorrycc/awesome-javascript.git
+[submodule "tools/Bakumon-awesome-online-tools"]
+	path = tools/Bakumon-awesome-online-tools
+	url = https://github.com/Bakumon/awesome-online-tools.git
