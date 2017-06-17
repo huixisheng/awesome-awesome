@@ -4,6 +4,9 @@ awesome收集整理。使用`git submodule` 方便同步作者原仓库资源。
 
 ## 前端开发资源 ##
 
+### [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+>🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+
 ### [ElementUI/awesome-element](https://github.com/ElementUI/awesome-element) ###
 >A curated list of Element projects
 
@@ -68,6 +71,9 @@ awesome收集整理。使用`git submodule` 方便同步作者原仓库资源。
 - [Awesome Awesome](https://github.com/emijrp/awesome-awesome) A curated list of awesome curated lists of many topics.
 
 ## 更新日志 ##
+
+**2017-06-17**
+- 添加sorrycc/awesome-javascript
 
 **2017-05-30**
 - 添加前端开发资源
