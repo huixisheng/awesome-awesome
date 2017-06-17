@@ -64,3 +64,6 @@
 [submodule "tools/mundimark-awesome-markdown"]
 	path = tools/mundimark-awesome-markdown
 	url = https://github.com/mundimark/awesome-markdown.git
+[submodule "fe/nicejade-Front-end-tutorial"]
+	path = fe/nicejade-Front-end-tutorial
+	url = https://github.com/nicejade/Front-end-tutorial.git

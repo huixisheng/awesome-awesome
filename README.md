@@ -4,6 +4,9 @@ awesome收集整理。使用`git submodule` 方便同步作者原仓库资源。
 
 ## 前端开发资源 ##
 
+## [nicejade/Front-end-tutorial](https://github.com/nicejade/Front-end-tutorial) ##
+> 🐼最全的资源教程-前端涉及的所有知识体系 http://www.jeffjade.com/2016/03/30/104-front-end-tutorial/
+
 ### [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 >🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 
