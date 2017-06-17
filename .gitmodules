@@ -58,3 +58,9 @@
 [submodule "tools/Bakumon-awesome-online-tools"]
 	path = tools/Bakumon-awesome-online-tools
 	url = https://github.com/Bakumon/awesome-online-tools.git
+[submodule "tools/BubuAnabelas-awesome-markdown"]
+	path = tools/BubuAnabelas-awesome-markdown
+	url = https://github.com/BubuAnabelas/awesome-markdown.git
+[submodule "tools/mundimark-awesome-markdown"]
+	path = tools/mundimark-awesome-markdown
+	url = https://github.com/mundimark/awesome-markdown.git

@@ -26,6 +26,8 @@
 - [ksky521/nodePPT](https://github.com/ksky521/nodePPT) This is probably the best web presentation tool so far!
 - [twitter.com:ppt markdown](https://twitter.com/search?q=ppt%20markdown&src=typd)
 - [yhatt/marp](https://github.com/yhatt/marp) Markdown presentation writer, powered by Electron.
+- [fritx/markppt](https://github.com/fritx/markppt) 一篇markdown，一份ppt。
+- [adamzap/landslide](https://github.com/adamzap/landslide) Generate HTML5 slideshows from markdown, ReST, or textile
 
 
 ## 相关资源 ##
@@ -34,6 +36,8 @@
 - [devhub.io:ppt](https://devhub.io/search?keyword=ppt)
 - [https://github.com/Bakumon/awesome-online-tools](https://github.com/Bakumon/awesome-online-tools) 🔨 A series of small, beautiful and practical online tools.
 - [几个秒杀PPT的高（zhe）大(teng)上(ren)的幻灯工具](http://www.jianshu.com/p/09a3bbb8b362)
+- [Markdown：让书写更美好](http://www.jianshu.com/p/17fdcf17bbb4)
+- [用Markdown写一个极客范儿的PPT](http://www.jianshu.com/p/e063303317cb)
 
 ## 其他 ##
 - [akira-cn/matrix](https://github.com/akira-cn/matrix) Open source slideshare lab for user to create slideshares by reveal.js.
