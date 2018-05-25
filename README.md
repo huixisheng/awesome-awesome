@@ -113,7 +113,7 @@ rm -rf awesome/erichs-awesome-awesome.git
 
 下载
 
-`git cloen git@github.com:huixisheng/awesome-awesome.git --recursive`
+`git clone git@github.com:huixisheng/awesome-awesome.git --recursive`
 
 或者
 
@@ -125,6 +125,8 @@ git submodule init
 更新
 
 `git submodule foreach --recursive git submodule update`
+
+`git submodule update --remote`
 
 
 **声明：** 版权归原作者所有
