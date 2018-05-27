@@ -1,5 +1,5 @@
 ---
-sidebarDepth: 2
+sidebarDepth: 3
 sidebar: auto
 ---
 # awesome-awesome #
@@ -114,6 +114,33 @@ TODO: 解析问题
 - [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
 - [![](./shortcut/source/sublime-cheating-sheet.jpeg)](http://sublime.emptystack.net/)  图片来自: http://sublime.emptystack.net/img/sublime-cheating-sheet.png
 - [IntelliJ IDEA For Mac 快捷键](http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/keymap-mac-introduce.html) 下载的IntelliJIDEA_ReferenceCard.pdf来自: https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
+
+
+
+## css3 ##
+### [@huixisheng/flexbox](/css3/@huixisheng/flexbox/) ###
+[@huixisheng/flexbox](https://github.com/huixisheng/flexbox)
+> 收集整理css flex相关的资源。
+
+
+
+## teams ##
+### [@mdluo/awesome-fe-team](/teams/@mdluo/awesome-fe-team/)  ###
+[@mdluo/awesome-fe-team](https://github.com/mdluo/awesome-fe-team)
+> 国内知名 IT 公司前端团队 (排名不分先后)
+
+
+
+## PWA ##
+### [@hemanth/awesome-pwa](/pwa/@hemanth/awesome-pwa/) ###
+[@hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa.git)
+> Awesome list of progressive web apps! (
+
+
+## Vue  ##
+### [@itemsets/vue2](/vue/@itemsets/vue2)
+[@itemsets/vue2](https://github.com/itemsets/vue2)
+> 🎨 集web前端最近很火的vue2框架资源
 
 
 ## 综合资源 ##

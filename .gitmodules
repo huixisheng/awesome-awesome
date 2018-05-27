@@ -67,3 +67,15 @@
 [submodule "fe/nicejade-Front-end-tutorial"]
 	path = fe/nicejade-Front-end-tutorial
 	url = https://github.com/nicejade/Front-end-tutorial.git
+[submodule "css3/@huixisheng/flexbox"]
+	path = css3/@huixisheng/flexbox
+	url = https://github.com/huixisheng/flexbox.git
+[submodule "teams/@mdluo/awesome-fe-team"]
+	path = teams/@mdluo/awesome-fe-team
+	url = https://github.com/mdluo/awesome-fe-team.git
+[submodule "vue/@itemsets/vue2"]
+	path = vue/@itemsets/vue2
+	url = https://github.com/itemsets/vue2.git
+[submodule "pwa/@hemanth/awesome-pwa"]
+	path = pwa/@hemanth/awesome-pwa
+	url = https://github.com/hemanth/awesome-pwa.git
