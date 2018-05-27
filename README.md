@@ -10,51 +10,85 @@ sidebar: auto
 
 ## 前端开发资源 ##
 
-## [nicejade/Front-end-tutorial](https://github.com/nicejade/Front-end-tutorial) ##
+### [@nicejade/Front-end-tutorial](/fe/nicejade-Front-end-tutorial/)
+仓库地址: [@nicejade/Front-end-tutorial](https://github.com/nicejade/Front-end-tutorial)
 > 🐼最全的资源教程-前端涉及的所有知识体系 http://www.jeffjade.com/2016/03/30/104-front-end-tutorial/
 
-### [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
->🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 
-### [ElementUI/awesome-element](https://github.com/ElementUI/awesome-element) ###
+
+### [@sorrycc/awesome-javascript](/fe/sorrycc-awesome-javascript/)
+仓库地址: [@sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+>🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+TODO: 解析问题
+
+
+
+### [@ElementUI/awesome-element](/fe/ElementUI-awesome-element/)
+仓库地址: [@ElementUI/awesome-element](https://github.com/ElementUI/awesome-element)
 >A curated list of Element projects
 
-### [opendigg/awesome-github-vue](git@github.com:opendigg/awesome-github-vue.git) ###
->Vue相关开源项目库汇总 http://www.opendigg.com/tags/front-vue
 
-### [dustinspecker/awesome-eslint](git@github.com:dustinspecker/awesome-eslint.git)
+### [@opendigg/awesome-github-vue](/fe/opendigg-awesome-github-vue/)
+仓库地址: [@opendigg/awesome-github-vue](git@github.com:opendigg/awesome-github-vue.git)
+> Vue相关开源项目库汇总 http://www.opendigg.com/tags/front-vue
+
+
+
+### [@dustinspecker/awesome-eslint](/fe/dustinspecker-awesome-eslint/)
+仓库地址: [@dustinspecker/awesome-eslint](git@github.com:dustinspecker/awesome-eslint.git)
 >A list of awesome ESLint plugins, configs, etc.
 
-### [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue/)
+
+### [@vuejs/awesome-vue](/fe/vuejs-awesome-vue/)
+仓库地址: [@vuejs/awesome-vue](https://github.com/vuejs/awesome-vue/)
 >A curated list of awesome things related to Vue.js
 
-### [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ###
+
+
+### [@sindresorhus/awesome-nodejs](/fe/sindresorhus-awesome-nodejs/)
+仓库地址: [@sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 >⚡️ Delightful Node.js packages and resources https://node.cool
 
-### [uhub/awesome-css](https://github.com/uhub/awesome-css) ###
+
+### [@uhub/awesome-css](/fe/uhub-awesome-css/)
+仓库地址: [@uhub/awesome-css](https://github.com/uhub/awesome-css)
 >A curated list of awesome CSS frameworks, libraries and software.
 
 - [20张Cheat Sheet，让前端开发与设计效率x2](http://www.jianshu.com/p/bf266ec5a244)
 
-## 开发工具 ##
 
-### [Bakumon/awesome-online-tools](https://github.com/Bakumon/awesome-online-tools) ###
+
+## 开发工具 ##
+### [@Bakumon/awesome-online-tools](/tools/Bakumon-awesome-online-tools/)
+[@Bakumon/awesome-online-tools](https://github.com/Bakumon/awesome-online-tools)
 >🔨 A series of small, beautiful and practical online tools.
 
-### [dictcp/awesome-git](https://github.com/dictcp/awesome-git)
+
+### [@dictcp/awesome-git](/tools/dictcp-awesome-git/)
+[@dictcp/awesome-git](https://github.com/dictcp/awesome-git)
 >A curated list of amazingly awesome Git tools, resources and shiny things
 
-### [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) ###
+
+### [@jaywcjlove/awesome-mac](/tools/jaywcjlove-awesome-mac/)
+仓库地址 [@jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 > 这个仓库主要是收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。有这个想法是因为我最近发了一篇较为火爆的涨粉儿微信公众号文章[《工具武装的前端开发工程师》](https://mp.weixin.qq.com/s?__biz=MzAwNzgxMjYzMA==&mid=2649129466&idx=1&sn=e50f0049b096cf28b7cf707a4b5adb33#rd)，于是建了这么一个仓库，持续更新作为补充，搜集更多好用的软件工具。请Star、Pull Request或者使劲搓它 issues 给我推荐优秀好用的Mac应用，很显然我是一个资深Mac用户，我需要它们帮助我快乐、高效的工作，同时也分享给你。格式参照[awesome](https://github.com/sindresorhus/awesome)的清单。
 
-### [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) ###
+
+### [@iCHAIT/awesome-macOS](/tools/iCHAIT-awesome-macOS/)
+[@iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
 > A curated list of awesome applications, softwares, tools and shiny things for macOS.
 
-### [mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown)
-> A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.) ###
 
-### [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown)
+### [@mundimark/awesome-markdown](/tools/mundimark-awesome-markdown/)
+[@mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown)
+> A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
+
+
+### [@BubuAnabelas/awesome-markdown](/tools/BubuAnabelas-awesome-markdown/)
+[@BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown)
 > 📝 Delightful Markdown stuff.
+
+
 
 ## 开发文档 ##
 - [http://overapi.com/](http://overapi.com/)
@@ -83,9 +117,14 @@ sidebar: auto
 
 
 ## 综合资源 ##
+### [@emijrp/awesome-awesome](/awesome/emijrp-awesome-awesome/)
+[awesome-awesome](https://github.com/erichs/awesome-awesome)
+> A curated list of awesome curated lists! Inspired by inspiration.
 
-- [awesome-awesome](https://github.com/erichs/awesome-awesome) A curated list of awesome curated lists! Inspired by inspiration.
-- [Awesome Awesome](https://github.com/emijrp/awesome-awesome) A curated list of awesome curated lists of many topics.
+
+### [@erichs/awesome-awesome](/awesome/erichs-awesome-awesome/)
+[Awesome Awesome](https://github.com/emijrp/awesome-awesome)
+> A curated list of awesome curated lists of many topics.
 
 **声明：** 版权归原作者所有
 
