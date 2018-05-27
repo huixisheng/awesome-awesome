@@ -4,6 +4,7 @@
   "description": "awesome资源收集整理",
   "main": "index.js",
   "scripts": {
+    "docs:dev": "vuepress dev .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

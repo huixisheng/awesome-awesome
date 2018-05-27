@@ -57,7 +57,7 @@ sidebar: auto
 > 📝 Delightful Markdown stuff.
 
 ## 开发文档 ##
-- http://overapi.com/
+- [http://overapi.com/](http://overapi.com/)
 - [nodejs-cheatsheet.js](https://gist.github.com/LeCoupa/985b82968d8285987dc3)
 
 ## cheat sheet ##
@@ -78,7 +78,7 @@ sidebar: auto
 
 - [谷歌快捷键整理](https://github.com/dianjie/chromeShortcuts)
 - [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
-- [![](shortcut/source/sublime-cheating-sheet.jpeg)](http://sublime.emptystack.net/)  图片来自: http://sublime.emptystack.net/img/sublime-cheating-sheet.png
+- [![](./shortcut/source/sublime-cheating-sheet.jpeg)](http://sublime.emptystack.net/)  图片来自: http://sublime.emptystack.net/img/sublime-cheating-sheet.png
 - [IntelliJ IDEA For Mac 快捷键](http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/keymap-mac-introduce.html) 下载的IntelliJIDEA_ReferenceCard.pdf来自: https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
 
 
@@ -86,54 +86,6 @@ sidebar: auto
 
 - [awesome-awesome](https://github.com/erichs/awesome-awesome) A curated list of awesome curated lists! Inspired by inspiration.
 - [Awesome Awesome](https://github.com/emijrp/awesome-awesome) A curated list of awesome curated lists of many topics.
-
-## 更新日志 ##
-
-**2017-06-17**
-- 添加sorrycc/awesome-javascript
-- 添加Bakumon/awesome-online-tools
-
-**2017-05-30**
-- 添加前端开发资源
-- 添加开发工具
-
-**2017-05-29**
-- 初始化版本
-- 添加cheat sheet资源
-
-## submodule说明 ##
-
-添加
-
-`git submodule add https://github.com/uhub/awesome-css fe/uhub-awesome-css`
-
-删除
-
-```
-git rm --cached awesome/erichs-awesome-awesome.git
-rm -rf awesome/erichs-awesome-awesome.git
-删除.gitmodules相应信息.
-删除.git/config相关内容.
-删除.git/modules/erichs-awesome-awesome.git
-```
-
-下载
-
-`git clone git@github.com:huixisheng/awesome-awesome.git --recursive`
-
-或者
-
-```
-git cloen git@github.com:huixisheng/awesome-awesome.git
-git submodule init
-```
-
-更新
-
-`git submodule foreach --recursive git submodule update`
-
-`git submodule update --remote`
-
 
 **声明：** 版权归原作者所有
 

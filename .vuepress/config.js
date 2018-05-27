@@ -10,6 +10,7 @@ module.exports = {
       '/awesome/emijrp-awesome-awesome/': [
         '',
       ],
+      '/docs/git/': genSidebarGitConfig('git操作'),
     },
     // sidebar: true,
     // sidebar: [
@@ -28,4 +29,18 @@ module.exports = {
     editLinks: true,
     editLinkText: '帮助我们改善此页面！'
   }
+}
+
+function genSidebarGitConfig (title) {
+  return [
+    {
+      title,
+      collapsable: false,
+      children: [
+        '',
+        'subtree',
+        'submodule',
+      ]
+    }
+  ]
 }
