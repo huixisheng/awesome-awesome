@@ -1,6 +1,12 @@
+---
+sidebarDepth: 2
+sidebar: auto
+---
 # awesome-awesome #
 
-awesome收集整理。使用`git submodule` 方便同步作者原仓库资源。
+> awesome收集整理。使用`git submodule` 方便同步作者原仓库资源。
+
+[[toc]]
 
 ## 前端开发资源 ##
 

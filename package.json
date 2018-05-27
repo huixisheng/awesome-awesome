@@ -1,0 +1,25 @@
+{
+  "name": "awesome-awesome",
+  "version": "1.0.0",
+  "description": "awesome资源收集整理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huixisheng/awesome-awesome.git"
+  },
+  "keywords": [
+    "awesome"
+  ],
+  "author": "huixisheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huixisheng/awesome-awesome/issues"
+  },
+  "homepage": "https://github.com/huixisheng/awesome-awesome#readme",
+  "devDependencies": {
+    "atool-doc": "^0.9.2"
+  }
+}
