@@ -21,7 +21,7 @@ module.exports = {
       // // https://github.com/markdown-it/markdown-it/issues/367
       // md.enable('linkify');
       // md.linkify(md);
-      console.log(md);
+      // console.log(md);
     }
   },
   themeConfig: {
