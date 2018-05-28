@@ -91,3 +91,12 @@
 [submodule "frameworks/@lyfeyaj/awesome-resources"]
 	path = frameworks/@lyfeyaj/awesome-resources
 	url = https://github.com/lyfeyaj/awesome-resources.git
+[submodule "fe/@dypsilon/frontend-dev-bookmarks"]
+	path = fe/@dypsilon/frontend-dev-bookmarks
+	url = https://github.com/dypsilon/frontend-dev-bookmarks.git
+[submodule "php/@chiraggude/awesome-laravel"]
+	path = php/@chiraggude/awesome-laravel
+	url = https://github.com/chiraggude/awesome-laravel.git
+[submodule "javascript/@adam-s/js-interview-review"]
+	path = javascript/@adam-s/js-interview-review
+	url = https://github.com/adam-s/js-interview-review.git

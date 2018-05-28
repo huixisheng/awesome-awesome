@@ -54,6 +54,11 @@ TODO: 解析问题
 仓库地址: [@uhub/awesome-css](https://github.com/uhub/awesome-css)
 >A curated list of awesome CSS frameworks, libraries and software.
 
+
+### [@dypsilon/frontend-dev-bookmarks](/fe/@dypsilon/frontend-dev-bookmarks/)
+[@dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks.git)
+> Manually curated collection of resources for frontend web developers.
+
 - [20张Cheat Sheet，让前端开发与设计效率x2](http://www.jianshu.com/p/bf266ec5a244)
 
 
@@ -175,6 +180,19 @@ TODO: 解析问题
 ### [@CraryPrimitiveMan/awesome-php-zh_CN](/php/@CraryPrimitiveMan/awesome-php-zh_CN/)
 [@CraryPrimitiveMan/awesome-php-zh_CN](https://github.com/CraryPrimitiveMan/awesome-php-zh_CN.git)
 > 一个PHP资源列表，内容包括：库、框架、模板、安全、代码分析、日志、第三方库、配置工具、Web 工具、书籍、电子书、经典博文等等
+
+
+
+### [@chiraggude/awesome-laravel](/php/@chiraggude/awesome-laravel/)
+[@chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel.git)
+> A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
+
+
+
+## javascript
+### [@adam-s/js-interview-review](/javascript/@adam-s/js-interview-review/)
+[@adam-s/js-interview-review](https://github.com/adam-s/js-interview-review.git)
+> The JS interview review. As I&apos;m reviewing several resources I&apos;ve bookmarked on JavaScript development, I&apos;ll share them here.
 
 
 
