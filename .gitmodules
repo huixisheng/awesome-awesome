@@ -79,3 +79,15 @@
 [submodule "pwa/@hemanth/awesome-pwa"]
 	path = pwa/@hemanth/awesome-pwa
 	url = https://github.com/hemanth/awesome-pwa.git
+[submodule "fullstack/@kahun/awesome-sysadmin"]
+	path = fullstack/@kahun/awesome-sysadmin
+	url = https://github.com/kahun/awesome-sysadmin.git
+[submodule "php/@CraryPrimitiveMan/awesome-php-zh_CN"]
+	path = php/@CraryPrimitiveMan/awesome-php-zh_CN
+	url = https://github.com/CraryPrimitiveMan/awesome-php-zh_CN.git
+[submodule "frameworks/@JingwenTian/awesome-frontend"]
+	path = frameworks/@JingwenTian/awesome-frontend
+	url = https://github.com/JingwenTian/awesome-frontend.git
+[submodule "frameworks/@lyfeyaj/awesome-resources"]
+	path = frameworks/@lyfeyaj/awesome-resources
+	url = https://github.com/lyfeyaj/awesome-resources.git

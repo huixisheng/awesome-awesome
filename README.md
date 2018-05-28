@@ -115,6 +115,16 @@ TODO: 解析问题
 - [![](./shortcut/source/sublime-cheating-sheet.jpeg)](http://sublime.emptystack.net/)  图片来自: http://sublime.emptystack.net/img/sublime-cheating-sheet.png
 - [IntelliJ IDEA For Mac 快捷键](http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/keymap-mac-introduce.html) 下载的IntelliJIDEA_ReferenceCard.pdf来自: https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
 
+## 前端组件库 ##
+### [@JingwenTian/awesome-frontend](/frameworks/@JingwenTian/awesome-frontend/)
+[[@JingwenTian/awesome-frontend]](https://github.com/JingwenTian/awesome-frontend.git)
+> A curated list of amazingly awesome frontend libraries, resources and shiny things.
+> 搭建web app常用的样式/组件等收集列表(移动优先)
+
+### [@lyfeyaj/awesome-resources](/frameworks/@lyfeyaj/awesome-resources/)
+[@lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources.git)
+> Awesome resources for coding and learning: open source projects, websites, books e.g.
+> 开发实战资源整合
 
 
 ## css3 ##
@@ -152,6 +162,24 @@ TODO: 解析问题
 ### [@erichs/awesome-awesome](/awesome/erichs-awesome-awesome/)
 [Awesome Awesome](https://github.com/emijrp/awesome-awesome)
 > A curated list of awesome curated lists of many topics.
+
+
+## fullstack ##
+### [@kahun/awesome-sysadmin](/fullstack/@kahun/awesome-sysadmin/)
+[@kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin.git)
+> A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+
+
+
+## php  ##
+### [@CraryPrimitiveMan/awesome-php-zh_CN](/php/@CraryPrimitiveMan/awesome-php-zh_CN/)
+[@CraryPrimitiveMan/awesome-php-zh_CN](https://github.com/CraryPrimitiveMan/awesome-php-zh_CN.git)
+> 一个PHP资源列表，内容包括：库、框架、模板、安全、代码分析、日志、第三方库、配置工具、Web 工具、书籍、电子书、经典博文等等
+
+
+
+## other  ##
+- [@sahilsk/awesome-jenkins](https://github.com/sahilsk/awesome-jenkins)
 
 **声明：** 版权归原作者所有
 
