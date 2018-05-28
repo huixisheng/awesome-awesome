@@ -1,5 +1,6 @@
 module.exports = {
   title: 'awesome',
+  base: '/awesome-awesome/',
   markdown: {
     // https://www.npmjs.com/package/markdown-it-linkify-images
     lineNumbers: true,
