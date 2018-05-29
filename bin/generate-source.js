@@ -1,8 +1,8 @@
 const parseGithub = require('parse-github-url');
 const git = require('simple-git/promise');
 
-const githubLink = 'https://github.com/adam-s/js-interview-review.git';
-const fileType = 'javascript';
+const githubLink = 'https://github.com/joshbuchea/HEAD.git';
+const fileType = 'head';
 const gitUrlParse = parseGithub(githubLink);
 
 const submodulePath = `${fileType}/@${gitUrlParse.repo}`;

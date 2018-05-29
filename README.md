@@ -132,6 +132,14 @@ TODO: 解析问题
 > 开发实战资源整合
 
 
+
+## html5  ##
+### [@joshbuchea/HEAD](/head/@joshbuchea/HEAD/)
+[@joshbuchea/HEAD](https://github.com/joshbuchea/HEAD.git)
+> A list of everything that *could* go in the head of your document
+
+
+
 ## css3 ##
 ### [@huixisheng/flexbox](/css3/@huixisheng/flexbox/) ###
 [@huixisheng/flexbox](https://github.com/huixisheng/flexbox)

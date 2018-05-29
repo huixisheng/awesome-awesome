@@ -100,3 +100,6 @@
 [submodule "javascript/@adam-s/js-interview-review"]
 	path = javascript/@adam-s/js-interview-review
 	url = https://github.com/adam-s/js-interview-review.git
+[submodule "head/@joshbuchea/HEAD"]
+	path = head/@joshbuchea/HEAD
+	url = https://github.com/joshbuchea/HEAD.git

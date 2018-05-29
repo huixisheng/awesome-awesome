@@ -27,7 +27,14 @@ module.exports = {
   },
   themeConfig: {
     nav: [
-      { text: '搜索', link: 'https://google.com' },
+      { text: '每日阅读', link: '/daily' },
+      {
+        text: '资源',
+        items: [
+          { text: 'submodule说明', link: '/docs/git/submodule' },
+          { text: '在线ppt平台', link: '/slide-ppt' },
+        ]
+      }
     ],
     sidebar: {
       '/awesome/emijrp-awesome-awesome/': [

@@ -1,5 +1,5 @@
 - [ ] 支持文本链接的解析 只能支持文本的解析
-- [ ] 部分仓库无法解析 含有<animated-tada>
+- [ ] 部分仓库无法解析 含有`<animated-tada>`
 
 
 - sorrycc-awesome-javascript
@@ -81,11 +81,11 @@ Error: Failed to compile with errors.
     at compiler.run (/Users/huixisheng/.config/yarn/global/node_modules/webpack/lib/MultiCompiler.js:254:7)
     at finalCallback (/Users/huixisheng/.config/yarn/global/node_modules/webpack/lib/Compiler.js:157:39)
     at hooks.done.callAsync.err (/Users/huixisheng/.config/yarn/global/node_modules/webpack/lib/Compiler.js:173:13)
-    at AsyncSeriesHook.eval [as callAsync] (eval at create (/Users/huixisheng/.config/yarn/global/node_modules/tapable/lib/HookCodeFactory.js:24:12), <anonymous>:33:1)
+    at AsyncSeriesHook.eval [as callAsync] (eval at create (/Users/huixisheng/.config/yarn/global/node_modules/tapable/lib/HookCodeFactory.js:24:12), `<anonymous>`:33:1)
     at AsyncSeriesHook.lazyCompileHook [as _callAsync] (/Users/huixisheng/.config/yarn/global/node_modules/tapable/lib/Hook.js:35:21)
     at onCompiled (/Users/huixisheng/.config/yarn/global/node_modules/webpack/lib/Compiler.js:171:21)
     at hooks.afterCompile.callAsync.err (/Users/huixisheng/.config/yarn/global/node_modules/webpack/lib/Compiler.js:488:14)
-    at AsyncSeriesHook.eval [as callAsync] (eval at create (/Users/huixisheng/.config/yarn/global/node_modules/tapable/lib/HookCodeFactory.js:24:12), <anonymous>:6:1)
+    at AsyncSeriesHook.eval [as callAsync] (eval at create (/Users/huixisheng/.config/yarn/global/node_modules/tapable/lib/HookCodeFactory.js:24:12), `<anonymous>`:6:1)
     at AsyncSeriesHook.lazyCompileHook [as _callAsync] (/Users/huixisheng/.config/yarn/global/node_modules/tapable/lib/Hook.js:35:21)
     at compilation.seal.err (/Users/huixisheng/.config/yarn/global/node_modules/webpack/lib/Compiler.js:485:30)
 
