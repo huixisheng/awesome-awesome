@@ -203,6 +203,12 @@ TODO: 解析问题
 > The JS interview review. As I&apos;m reviewing several resources I&apos;ve bookmarked on JavaScript development, I&apos;ll share them here.
 
 
+### [@trekhleb/javascript-algorithms](/javascript/@trekhleb/javascript-algorithms/)
+[@trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms.git)
+> Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
+
+
 
 ## other  ##
 - [@sahilsk/awesome-jenkins](https://github.com/sahilsk/awesome-jenkins)

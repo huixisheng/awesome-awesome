@@ -103,3 +103,6 @@
 [submodule "head/@joshbuchea/HEAD"]
 	path = head/@joshbuchea/HEAD
 	url = https://github.com/joshbuchea/HEAD.git
+[submodule "javascript/@trekhleb/javascript-algorithms"]
+	path = javascript/@trekhleb/javascript-algorithms
+	url = https://github.com/trekhleb/javascript-algorithms.git
