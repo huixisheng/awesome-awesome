@@ -11,6 +11,10 @@ const githubLinkList = [
     url: 'https://github.com/lyfeyaj/awesome-resources.git',
     cate: 'frameworks',
   },
+  {
+    url: 'https://github.com/byoungd/English-level-up-tips-for-Chinese.git',
+    cate: 'tutorial',
+  },
 ];
 
 

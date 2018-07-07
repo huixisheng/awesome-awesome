@@ -106,3 +106,6 @@
 [submodule "javascript/@trekhleb/javascript-algorithms"]
 	path = javascript/@trekhleb/javascript-algorithms
 	url = https://github.com/trekhleb/javascript-algorithms.git
+[submodule "tutorial/@byoungd/English-level-up-tips-for-Chinese"]
+	path = tutorial/@byoungd/English-level-up-tips-for-Chinese
+	url = https://github.com/byoungd/English-level-up-tips-for-Chinese.git

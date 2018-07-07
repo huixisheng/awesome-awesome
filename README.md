@@ -112,6 +112,7 @@ TODO: 解析问题
 - [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 - [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
 - [5 个最好的 Vim 速查卡 (Cheat Sheet)](https://mp.weixin.qq.com/s/Dvq8R6cCdk2cGjkACER8Rg)
+- [@LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## 快捷键 ##
 
@@ -213,5 +214,18 @@ TODO: 解析问题
 ## other  ##
 - [@sahilsk/awesome-jenkins](https://github.com/sahilsk/awesome-jenkins)
 
-**声明：** 版权归原作者所有
 
+
+## docker ##
+- [@jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles)
+- [@docker-library/official-images](https://github.com/docker-library/official-images)
+
+
+## 教程 ##
+### [@byoungd/English-level-up-tips-for-Chinese](/tutorial/@byoungd/English-level-up-tips-for-Chinese/)
+  [@byoungd/English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese.git)
+> 可能是让你受益匪浅的英语进阶指南
+
+
+
+**声明：** 版权归原作者所有

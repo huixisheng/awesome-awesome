@@ -4,6 +4,8 @@
   "description": "awesome资源收集整理",
   "main": "index.js",
   "scripts": {
+    "dev": "npm run docs:dev",
+    "build": "npm run docs:build",
     "docs:dev": "vuepress dev .",
     "docs:build": "vuepress build .",
     "deploy": "gh-pages -d .vuepress/dist",
