@@ -189,17 +189,17 @@ const rules = [
       },
     ],
   },
-  // {
-  //   filter: 'cheat-sheet/tiimgreen-github-cheat-sheet/*.md',
-  //   replaces: [
-  //     {
-  //       find: '`{{ site.github.project_title }}`',
-  //       replace() {
-  //         return '`\{\{ site.github.project_title \}\}`';
-  //       },
-  //     },
-  //   ],
-  // }
+  {
+    filter: 'cheat-sheet/tiimgreen-github-cheat-sheet/*.md',
+    replaces: [
+      {
+        find: '`{{ site.github.project_title }}`',
+        replace() {
+          return '`\\{\\{ site.github.project_title \\}\\}`';
+        },
+      },
+    ],
+  }
 ];
 
 new MarkdownBeforeParse(rules);

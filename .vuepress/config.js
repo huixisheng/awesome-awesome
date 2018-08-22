@@ -27,12 +27,13 @@ module.exports = {
   },
   themeConfig: {
     nav: [
-      { text: '每日阅读', link: '/daily' },
+      { text: '常用手册', link: '/manual' },
       {
         text: '资源',
         items: [
           { text: 'submodule说明', link: '/docs/git/submodule' },
           { text: '在线ppt平台', link: '/slide-ppt' },
+          { text: 'vue-admin后台模板', link: '/vue-admin' },
         ]
       }
     ],
