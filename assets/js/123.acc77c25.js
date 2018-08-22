@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[123],{382:function(n,t,e){"use strict";e.r(t);var s=e(0),c=Object(s.a)({},function(){var n=this.$createElement;return(this._self._c||n)("div",{staticClass:"content"})},[],!1,null,null,null);c.options.__file="02-web-backend.md";t.default=c.exports}}]);
